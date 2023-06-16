@@ -1,0 +1,341 @@
+.quadrado1{
+    position: absolute;
+width: 1089px;
+height: 516px;
+left: 160px;
+top: 12px;
+
+background:#D9B75D;
+opacity: 0.7;
+border-radius: 80px;
+z-index: -1;
+}
+h1{
+    position: absolute;
+    width: 510px;
+    height: 45px;
+    left: 310px;
+    top: 1px;
+    background-color: #EBE07C;
+    text-align: center;
+    color: #A66003;
+
+box-shadow: inset 0px 200px 4px #EBE07C;
+border-radius: 50px;
+
+}
+h2{
+    position: absolute;
+    width: 280px;
+    height: 38px;
+    left: 870px;
+    top: 7px;
+    
+    background: #EBE07C;
+    border-radius: 50px;
+    position: absolute;
+    text-align: center;
+    color: #A66003;
+
+}
+h3{
+    position: absolute;
+width: 240px;
+height: 38px;
+left: 15px;
+top: 13px;
+
+background: #EBE07C;
+border-radius: 50px;
+text-align: center;
+color: #A66003;
+}
+h4{
+    position: absolute;
+width: 11px;
+height: 20px;
+left: 520px;
+top: 170px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 31px;
+line-height: 38px;
+color: #7C1D03;
+}
+p{
+    position: absolute;
+width: 200px;
+height: 44px;
+left: 460px;
+top: 210px;
+
+font-family: 'Do Hyeon';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+color: #EBE07C;
+
+
+}
+
+body{
+    background: rgba(233, 178, 39, 0.59);
+mix-blend-mode: normal;
+}
+.image{
+    position: absolute;
+    width: 400px;
+    height: 279px;
+    left: 775px;
+    top: 170px;
+    background-image: url(./img/hambu-removebg-preview.png);
+    background-position: center;
+    background-size: cover;
+    
+    filter: drop-shadow(20px 10px 4px rgba(0, 0, 0, 0.25));
+}
+h6{
+    position: absolute;
+    width: 280px;
+    height: 90px;
+
+    background: #EBE07C;
+    border-radius: 40px;
+    position: absolute;
+    width: 210px;
+    height: 25px;
+    left: 480px;
+    top: 320px;
+    text-align: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #E3C467;
+    z-index: 100;
+
+
+}
+
+.quadrado2{
+    position: absolute;
+width: 150px;
+height: 102px;
+left: 50px;
+top: 227px;
+
+background: #EBE07C;
+border-radius: 10px;
+}
+
+h5{
+    position: absolute;
+width: 110px;
+height: 32px;
+top: 279px;
+left: 97px;
+text-align: center;
+background: #D2AF58;
+border-radius: 20px;
+position: absolute;
+width: 60px;
+height: 19px;
+
+font-family: 'Basic';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+
+color: #EBE07C;
+
+}
+.line{
+    position: absolute;
+width: 33px;
+height: 49px;
+left: 1150px;
+top: 465px;
+     background-image: url(./img/arrow_left_small_icon_213145-removebg-preview.png);
+     background-position: center ;
+     background-size: cover;    
+     mix-blend-mode: overlay;
+     transform: rotate(-179.57deg);
+     z-index: -5;
+     
+}
+
+
+
+
+
+.hamburguer{
+    position: absolute;
+    width: 114px;
+    height: 100px;
+    left: 72px;
+    top: 200px;
+    background-image: url(./img/images-removebg-preview.png);
+    z-index: 100;
+    background-position: center ;
+ background-size: cover;    
+}
+.quadrado3{
+    position: absolute;
+width: 150px;
+height: 102px;
+left: 235px;
+top: 227px;
+
+background: #EBE07C;
+border-radius: 10px;
+}
+.desenho{
+    position: absolute;
+width: 118px;
+height: 133px;
+left: 250px;
+top: 180px;
+background-image: url(./img/download__1_-removebg-preview.png);
+z-index: 100;
+background-position: center ;
+background-size: cover;    
+}
+.h7{
+    position: absolute;
+width: 40px;
+height: 19px;
+
+font-family: 'Basic';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+
+
+color: #EBE07C;
+
+position: absolute;
+width: 70px;
+height: 19px;
+left: 280px;
+top: 304px;
+
+background: #D2AF58;
+border-radius: 50px;
+text-align: center;
+
+
+}
+.telefone{
+
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 900px;
+    top: 29px;
+    background-image: url(./img/1151429-removebg-preview\ \(1\).png);
+    background-position: center ;
+background-size: cover;    
+mix-blend-mode: overlay;
+}
+.line{
+    position: absolute;
+width: 210px;
+height: 0px;
+left: 470px;
+top: 330px;
+
+border: 5px solid #D3C17F;
+backdrop-filter: blur(2px);
+transform: rotate(-0.43deg);
+}
+
+.line{
+    position: absolute;
+width: 400px;
+height: 0px;
+left: 780px;
+top: 324px;
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.seta{
+    position: absolute;
+width: 33px;
+height: 49px;
+left: 1096px;
+top: 465px;
+    background-image: url(./img/arrow_left_small_icon_213145-removebg-preview.png);
+    background-position: center ;
+     background-size: cover;    
+     mix-blend-mode: overlay;
+}
+.seta2{
+    position: absolute;
+width: 33px;
+height: 49px;
+left: 1150px;
+top: 465px;
+     background-image: url(./img/arrow_left_small_icon_213145-removebg-preview.png);
+     background-position: center ;
+     background-size: cover;    
+     mix-blend-mode: overlay;
+     transform: rotate(-179.57deg);
+     z-index: -5;
+     
+}
+.line1{
+    
+position: absolute;
+width: 420px;
+height: 0px;
+left: 759px;
+top: 250px;
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+z-index: -5 ;
+}
+.faixa{
+    position: absolute;
+width: 319.04px;
+height: 0px;
+left: 865px;
+top: 300px;
+
+opacity: 0.3;
+border: 1px solid #000000;
+transform: rotate(89.1deg);
+z-index: -5;
+}
+.faixa1{
+    position: absolute;
+    width: 319.04px;
+    height: 0px;
+    left: 790px;
+    top: 300px;
+    
+    opacity: 0.3;
+    border: 1px solid #000000;
+    transform: rotate(89.1deg);
+    z-index: -5;
+}
+.lupa{
+    top: 34px;
+    left: 780px;
+    position: absolute;
+width: 22px;
+height: 22.61px;
+mix-blend-mode: overlay;
+background-image: url(./img/download3-removebg-preview.png);
+z-index: 100;
+background-position: center ;
+background-size: cover;    
+}
